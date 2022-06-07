@@ -322,7 +322,7 @@ div.img{
 @media (max-width:500px) {
     header {
         background-position: center;
-        width: 100%;
+        width: 60%;
         height: 800px;
     }
     .wave {
