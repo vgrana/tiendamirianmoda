@@ -323,6 +323,7 @@ div.img{
     header {
         background-position: center;
         width: 100%;
+        height: 50%;
     }
     .wave {
     position: absolute;
