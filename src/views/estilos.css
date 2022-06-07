@@ -28,7 +28,7 @@ body {
 
 header {
     width: 100%;
-    height: 600px;
+    height: 800px;
     background: #EF3B36;
     /*fallback for old browsers*/
     background: -webkit-linear-gradient(to top, hsla(2, 300%, 15%, 0.202), hsla(212, 80%, 42%, 0.301));
