@@ -325,7 +325,9 @@ div.img{
         width: 100%;
         height: 764px;
         background: linear-gradient(to top, hsla(2, 300%, 15%, 0.202), #A1FFCE), url(./portada1.jpg);
-        
+        background-attachment: fixed;
+        background-size: cover;
+        position: relative;
         } 
 
     .wave {
