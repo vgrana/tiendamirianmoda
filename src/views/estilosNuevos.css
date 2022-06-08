@@ -71,6 +71,11 @@
 @media screen and (max-width:1000px){
     .contenedor-imagenes{
         width: 95%;
+
+    }
+    .imagen img{
+         object-fit: scale-down;
+
     }
 }
 
