@@ -326,7 +326,7 @@ div.img{
         height: 764px;
         background: linear-gradient(to top, hsla(2, 300%, 15%, 0.202), #A1FFCE), url(./portada1.jpg);
          background-attachment: fixed;
-    background-size: cover;
+    background-size: contain;
     /* position: relative; */
         } 
 
