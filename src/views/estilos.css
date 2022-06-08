@@ -322,8 +322,8 @@ div.img{
 @media (max-width:500px) {
      header {
         background-position: center;
-        /* width: 100%;
-        height: 764px; */
+        width: 100%;
+        height: 764px;
         background: #EF3B36;
         /*fallback for old browsers*/
         background: -webkit-linear-gradient(to top, hsla(2, 300%, 15%, 0.202), hsla(212, 80%, 42%, 0.301));
