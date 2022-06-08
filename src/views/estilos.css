@@ -322,8 +322,8 @@ div.img{
 @media (max-width:500px) {
     header {
         background-position: center;
-        width: 60%;
-        height: 800px;
+        width: 100%;
+        height: 764px;
     }
     .wave {
     position: absolute;
@@ -340,7 +340,7 @@ div.img{
         overflow: hidden;
     }
     .imagen-port {
-        width: 60%;
+        width: 100%;
         flex-direction: column;
         justify-content: space-evenly;
     }
