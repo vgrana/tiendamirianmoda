@@ -345,7 +345,8 @@ div.img{
             /* object-fit: scale-down; */
             object-fit: cover;
             border-style: solid;
-       
+        }
+        /* esto de abajo estaba sin andar, sino anda bien borrarlo */
         .imagen-port {
             width: 300px;
             margin-bottom: 10px;
