@@ -303,8 +303,11 @@ div.img{
     border-style: none;
     width: 400px;
     height: 400px;
-    object-fit: scale-down;
-    /* a ver si es esto */
+    /* object-fit: scale-down; */
+    object-fit: cover;
+    border-style: solid;
+           
+    
   }
   div.img img{
    margin:0;
@@ -338,15 +341,15 @@ div.img{
         .imagen-port {
             width: 300px;
             margin-bottom: 10px;
-            padding-left: 2px;
+            padding-left: 0px;
             padding-right: 2px;
             height: 300%;
             overflow: hidden;
             position: relative;
-            object-fit: cover;
-            /* cursor: pointer; */
+            /* object-fit: cover;
+          
             box-shadow: 0 0 6px 0 rgba(0, 0, 0, 5);
-            border-style:solid;
+            border-style:solid; */
             
         }
         
