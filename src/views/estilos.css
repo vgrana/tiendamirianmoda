@@ -355,9 +355,9 @@ div.img{
         overflow: hidden;
     }
     .imagen-port {
-        width: 100%;
+        width: 1rem;
         flex-direction: column;
-        justify-content: space-evenly;
+        /* justify-content: space-evenly; */
     }
     .contenedor-sobre-nosotros {
         flex-direction: column;
@@ -370,9 +370,7 @@ div.img{
     .imagen-about-us {
         width: 90%;
     }
-    .imagen-port {
-        width: 100%;
-    }
+   
     .cards {
         flex-direction: column;
         justify-content: center;
