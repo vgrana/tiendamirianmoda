@@ -347,20 +347,20 @@ div.img{
             border-style: solid;
         }
         /* esto de abajo estaba sin andar, sino anda bien borrarlo */
-        .imagen-port {
+        /* .imagen-port {
             width: 300px;
             margin-bottom: 10px;
             padding-left: 0px;
             padding-right: 2px;
             height: 300%;
             overflow: hidden;
-            position: relative;
+            position: relative; */
             /* object-fit: cover;
           
             box-shadow: 0 0 6px 0 rgba(0, 0, 0, 5);
             border-style:solid; */
             
-        }
+        /* } */
         
     .wave {
     position: absolute;
