@@ -187,7 +187,7 @@ header .textos-header {
 
 
 /*clientes */
-
+/* 
 .cards {
     display: flex;
     justify-content: space-evenly;
@@ -221,7 +221,7 @@ header .textos-header {
 .cards .card>.contenido-texto-card p {
     font-weight: 300;
     padding-top: 5px;
-}
+} */
 
 
 /* out team*/
