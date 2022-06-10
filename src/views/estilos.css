@@ -338,7 +338,7 @@ div.img{
         .imagen-port {
             width: 300px;
             margin-bottom: 10px;
-            padding: auto;
+            padding-left: 10px;
             height: 300%;
             overflow: hidden;
             position: relative;
