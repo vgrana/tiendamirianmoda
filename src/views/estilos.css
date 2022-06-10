@@ -332,20 +332,22 @@ div.img{
         background: linear-gradient(to top, hsla(2, 300%, 15%, 0.202), #A1FFCE), url(./portada1.jpg);
          background-attachment: fixed;
     background-size: contain;
-    position: relative;
+    /* position: relative; */
         } 
        
         .imagen-port {
             width: 300px;
             margin-bottom: 10px;
             padding-left: 2px;
-            padding-right: 8px;
+            padding-right: 2px;
             height: 300%;
             overflow: hidden;
             position: relative;
             object-fit: cover;
             /* cursor: pointer; */
             box-shadow: 0 0 6px 0 rgba(0, 0, 0, 5);
+            border: groove;
+            
         }
         
     .wave {
@@ -365,7 +367,7 @@ div.img{
     .imagen-port {
         width: 1rem;
         flex-direction: column;
-        /* justify-content: space-evenly; */
+         justify-content: space-evenly;
     }
     .contenedor-sobre-nosotros {
         flex-direction: column;
