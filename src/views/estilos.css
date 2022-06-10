@@ -338,7 +338,8 @@ div.img{
         .imagen-port {
             width: 300px;
             margin-bottom: 10px;
-            padding-left: 1rem;
+            padding-left: 10px;
+            padding-right: 51px;
             height: 300%;
             overflow: hidden;
             position: relative;
@@ -355,7 +356,7 @@ div.img{
     }
     
     .contenedor {
-        padding: 0px 0;
+        padding: 10px 10px;
         width: 100%;
         max-width: 1000px;
         margin: auto;
