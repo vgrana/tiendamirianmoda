@@ -334,7 +334,14 @@ div.img{
     background-size: contain;
     /* position: relative; */
         } 
-
+        div.img{
+            display:table;
+            border-style: none;
+            width: 400px;
+            height: 400px;
+            object-fit: scale-down;
+            /* a ver si es esto */
+          }
         .imagen-port {
             width: 300px;
             margin-bottom: 10px;
