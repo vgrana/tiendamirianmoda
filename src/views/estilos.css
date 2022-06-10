@@ -300,6 +300,11 @@ footer {
 
 div.img{
     display:table;
+    border-style: none;
+    width: 400px;
+    height: 400px;
+    object-fit: scale-down;
+    /* a ver si es esto */
   }
   div.img img{
    margin:0;
