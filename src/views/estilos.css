@@ -330,6 +330,16 @@ div.img{
     /* position: relative; */
         } 
 
+        .imagen-port {
+            width: 100%;
+            margin-bottom: 10px;
+            height: 100%;
+            overflow: hidden;
+            position: relative;
+            /* cursor: pointer; */
+            box-shadow: 0 0 6px 0 rgba(0, 0, 0, 5);
+        }
+        
     .wave {
     position: absolute;
     bottom: 0%;
