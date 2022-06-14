@@ -191,6 +191,7 @@ header .textos-header {
     width: 28%;
     text-align: center;
     justify-content: center;
+    
 }
 
 .servicio-ind img {
@@ -211,6 +212,7 @@ header .textos-header {
     font-family: cursive;
     text-align: center;
     text-decoration: underline;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 /*footer*/
 
