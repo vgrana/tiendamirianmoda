@@ -207,9 +207,10 @@ header .textos-header {
 }
 
 .letra{
-    font-size: 14px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
+    font-size: 16px;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
 }
 /*footer*/
 
