@@ -296,7 +296,7 @@ div.img{
     /* position: relative; */
         } 
         div.img{
-            display:inline-block;
+            display:table;
             border-style: none;
             /* width: 400px;
             height: 400px; */
