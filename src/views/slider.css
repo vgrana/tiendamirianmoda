@@ -68,3 +68,17 @@ body{
     font-size: 20px;
     border-radius: 100%;
   }
+
+  @media (max-width:900px) {
+    
+  ul.slider li {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    opacity: 0;
+    width: max-content;
+    height: max-content;
+    transition: opacity .5s;
+    background: #fff;
+  }
+}
