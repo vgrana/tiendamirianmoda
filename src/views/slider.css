@@ -77,4 +77,28 @@
     transition: opacity .5s;
     background: #fff;
   }
+  ul.slider li img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+  }
+
+  .container2{
+    margin: auto;
+    background-color: white;
+    width: 400px;
+    padding: 10px;
+  }
+  
+  ul, li {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+  }
+  
+  ul.slider{
+    position: relative;
+    width: 300px;
+    height: 300px;
+  }
 }
