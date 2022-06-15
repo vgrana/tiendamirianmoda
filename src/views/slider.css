@@ -72,8 +72,8 @@
     left: 0px;
     top: 0px;
     opacity: 0;
-    width: max-content;
-    height: max-content;
+    /* width: max-content; */
+    /* height: max-content; */
     transition: opacity .5s;
     background: #fff;
   }
