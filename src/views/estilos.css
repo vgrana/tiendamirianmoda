@@ -258,8 +258,8 @@ footer {
 div.img{
     display:table;
     border-style: none;
-    width: 400px;
-    height: 400px;
+    /* width: 400px;
+    height: 400px; */
     /* object-fit: scale-down; */
     object-fit: cover;
     border-style: solid;
@@ -297,8 +297,8 @@ div.img{
         div.img{
             display:table;
             border-style: none;
-            width: 400px;
-            height: 400px;
+            /* width: 400px;
+            height: 400px; */
             /* object-fit: scale-down; */
             object-fit: cover;
             border-style: solid;
@@ -336,7 +336,7 @@ div.img{
     .imagen-port {
         width: 1rem;
         flex-direction: column;
-         justify-content: space-evenly;
+        justify-content: space-evenly;
     }
     .contenedor-sobre-nosotros {
         flex-direction: column;
