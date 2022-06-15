@@ -303,7 +303,13 @@ div.img{
             /* object-fit: scale-down; */
             object-fit: cover;
             border-style: solid;
+
         }
+        div.img img{
+            margin: 10px;;
+            padding:0;
+            object-fit: contain;
+           }
         /* esto de abajo estaba sin andar, sino anda bien borrarlo */
         /* .imagen-port {
             width: 300px;
